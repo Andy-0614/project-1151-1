@@ -75,3 +75,5 @@ node scripts/validate.mjs
 - [講師流程表](docs/instructor/run-of-show.md) — 90 分鐘時間表
 - [衝突腳本](docs/instructor/conflict-script.md) — 刻意製造衝突的教學劇本
 - [貢獻指南](CONTRIBUTING.md) — 資料格式與 commit 規範
+
+1
